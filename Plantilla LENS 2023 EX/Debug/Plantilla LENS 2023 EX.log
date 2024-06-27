@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(486,25): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(512,23): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(2059,46): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(2060,46): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(2061,46): warning C4244: '=': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Plantilla LENS 2023 EX\main.cpp(2083,8): warning C4101: 'c': variable local sin referencia
+  Plantilla LENS 2023 EX.vcxproj -> D:\jjdel\Escritorio\4to semestre\LENS\Plantilla LENS 2023 EX\Copia 1\LENS_PIA\Plantilla LENS 2023 EX\Debug\Plantilla LENS 2023 EX.exe

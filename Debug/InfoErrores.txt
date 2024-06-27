@@ -1,0 +1,1 @@
+Libzplay.dll debe estar en esta carpeta.
