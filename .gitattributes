@@ -3,3 +3,4 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
 *.bmp filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+Plantilla[[:space:]]LENS[[:space:]]2023[[:space:]]EX/Recursos/zeros12.bmp filter=lfs diff=lfs merge=lfs -text
