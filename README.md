@@ -1,59 +1,60 @@
 # 🕹️ Retrowave RoadFighter
 
-**Retrowave RoadFighter** es un videojuego desarrollado en **C++ utilizando WinAPI** con funcionalidades clave programadas en **ensamblador** para optimizar el rendimiento. El juego es un endless runner donde el jugador debe esquivar autos en una carretera mientras acumula puntos. Todo esto con un estilo visual 2D pixel art y una temática retrowave ochentera para darle ese toque nostálgico.
+**Retrowave RoadFighter** es un juego estilo endless runner desarrollado en **C++ con WinAPI** y funciones críticas en **ensamblador** para rendimiento máximo. Enfréntate a una carretera llena de autos peligrosos, esquívalos, acumula puntos y usa power-ups para sobrevivir más tiempo. Todo acompañado de arte 2D pixel art con temática retrowave y música/effects 8-bit que te transportan directo a los 80s.
 
 ---
 
-## 🎮 Mecánicas de juego
+## 🎮 Mecánicas principales
 
-- **Objetivo:** Esquivar autos que vienen en la carretera y acumular puntos por cada vehículo que evitas.
-- **Controles:** Usa las flechas del teclado para moverte a la izquierda o derecha.
-- **Puntuación:** Cada auto esquivado suma puntos. El juego se vuelve progresivamente más difícil.
-- **Colisiones:** Si chocas con un auto, el juego termina.
-- **Estilo:** Gráficos pixel art 2D con colores y música estilo retrowave synthwave.
+- **Esquiva autos** que vienen rápido en la carretera y acumula puntos por cada uno que evites.
+- **Power-up de vida:** Consigue ítems que aumentan tu barra de vida para aguantar más choques.
+- **Guarda récords localmente:** Tu mejor puntuación se guarda en tu PC para competir contigo mismo.
+- **Controles:** Usa las flechas del teclado para moverte lateralmente.
+- **Colisiones:** Al perder toda la vida, termina la partida.
+- **Arte:** Pixel art 2D con estética retrowave synthwave.
+- **Audio:** Música y efectos en 8-bit, perfectamente acoplados al arte para una experiencia retro total.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguaje principal:** C++
-- **API gráfica y de ventana:** Windows API (WinAPI)
-- **Código optimizado:** Funciones críticas en ensamblador para maximizar rendimiento.
-- **Arte:** Pixel art 2D, creado con herramientas externas (asegúrate de incluir créditos si usas assets de terceros).
-- **Sonido:** Música y efectos retrowave (si están incluidos).
+- **Lenguaje:** C++ para lógica y WinAPI para ventanas y gráficos.
+- **Ensamblador:** Funciones clave optimizadas en ASM.
+- **Arte:** Pixel art hecho a mano.
+- **Audio:** Sonidos y música 8-bit originales o adaptados.
+- **Almacenamiento:** Guarda récords de puntuación localmente (archivo o registro).
 
 ---
 
 ## 🚀 Cómo compilar y ejecutar
 
-1. Abre tu IDE favorito compatible con C++ y WinAPI (Visual Studio recomendado).
-2. Configura el proyecto para incluir código ensamblador (usa archivos `.asm` o inline asm según convenga).
-3. Añade las dependencias y asegúrate que las rutas a los assets estén correctas.
-4. Compila el proyecto y ejecuta el binario resultante.
-5. Usa las flechas para esquivar autos y supera tu mejor puntuación.
+1. Abre Visual Studio (o tu IDE preferido con soporte WinAPI).
+2. Importa el proyecto o crea uno nuevo con los archivos `.cpp` y `.asm`.
+3. Asegúrate de configurar la compilación para ensamblador (archivos `.asm` o inline asm).
+4. Añade las rutas correctas para los assets.
+5. Compila y ejecuta.
+6. Controla el jugador con flechas y disfruta esquivando autos y usando power-ups.
 
 ---
 
-## 🎯 Mejoras futuras / ideas
+## 🎯 Mejoras futuras
 
-- [ ] Añadir niveles de dificultad progresiva.
-- [ ] Incorporar power-ups y obstáculos variados.
-- [ ] Guardar récords de puntuación.
-- [ ] Añadir menú principal y pantalla de Game Over con opciones.
-- [ ] Música y efectos sonoros dinámicos.
-- [ ] Implementar soporte para gamepads.
+- [ ] Menú principal y pantalla de Game Over.
+- [ ] Soporte para gamepads.
+- [ ] Más power-ups (velocidad, escudo, etc.).
+- [ ] Guardar estadísticas avanzadas.
+- [ ] Modos de juego adicionales.
 
 ---
 
 ## 🧑‍💻 Autor
 
 **José de la Cruz (Chucho)**  
-Desarrollador principal y pixel artist  
+Desarrollador y artista pixel  
 📫 Contacto: [LinkedIn](https://linkedin.com) | [YouTube](https://youtube.com) *(opcional)*
 
 ---
 
 ## ⚖️ Licencia
 
-Proyecto para fines educativos y demostración técnica. Uso libre con crédito al autor.
-
+Proyecto educativo, uso libre con mención al autor.
