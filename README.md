@@ -51,7 +51,6 @@
 
 **José de la Cruz (Chucho)**  
 Desarrollador y artista pixel  
-📫 Contacto: [LinkedIn](https://linkedin.com) | [YouTube](https://youtube.com) *(opcional)*
 
 ---
 
